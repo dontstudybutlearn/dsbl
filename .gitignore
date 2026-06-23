@@ -1,0 +1,13 @@
+# Hugo default output directory
+public/
+resources/_gen/
+
+# If you use Hugo Modules, ignore the cache
+.hugo_build.lock
+
+# Local development environment/OS garbage
+.DS_Store
+Thumbs.db
+
+# Optional: If you use a local environment file for API keys/secrets
+.env

@@ -1,0 +1,71 @@
+:root {
+  /* --- LIGHT MODE: Crisp White-ish backgrounds, Dark-ish text --- */
+  --bg_h: #ffffff;   /* Pure White (Hard background) */
+  --bg: #f8f9fa;     /* Off-White (Main background) */
+  --bg_s: #f1f3f5;   /* Soft Light Gray (Soft background) */
+  --bg1: #e9ecef;    /* Borders / Accents Level 1 */
+  --bg2: #dee2e6;    /* Borders / Accents Level 2 */
+  --bg3: #ced4da;    /* Borders / Accents Level 3 */
+  --bg4: #adb5bd;    /* Borders / Accents Level 4 */
+
+  --fg: #212529;     /* Near Black (Main text) */
+  --fg1: #343a40;    /* Muted Text Level 1 */
+  --fg2: #495057;    /* Muted Text Level 2 */
+  --fg3: #6c757d;    /* Muted Text Level 3 */
+  --fg4: #adb5bd;    /* Muted Text Level 4 */
+
+  /* Accents (Kept original Gruvbox light palette) */
+  --red: #9d0006;
+  --green: #79740e;
+  --yellow: #b57614;
+  --blue: #076678;
+  --purple: #8f3f71;
+  --aqua: #427b58;
+  --orange: #af3a03;
+  --gray: #928374;
+
+  --red-dim: #cc2412;
+  --green-dim: #98971a;
+  --yellow-dim: #d79921;
+  --blue-dim: #458598;
+  --purple-dim: #b16286;
+  --aqua-dim: #689d6a;
+  --orange-dim: #d65d0e;
+  --gray-dim: #7c6f64;
+}
+
+.darkmode {
+  /* --- DARK MODE: Black-ish backgrounds, White-ish text --- */
+  --bg_h: #121212;   /* Deep Jet Black (Hard background) */
+  --bg: #1a1a1a;     /* Dark Charcoal (Main background) */
+  --bg_s: #242424;   /* Lighter Charcoal (Soft background) */
+  --bg1: #2d2d2d;    /* Component Backgrounds / Borders Level 1 */
+  --bg2: #3d3d3d;    /* Component Backgrounds / Borders Level 2 */
+  --bg3: #4d4d4d;    /* Component Backgrounds / Borders Level 3 */
+  --bg4: #5d5d5d;    /* Component Backgrounds / Borders Level 4 */
+
+  --fg: #f5f5f5;     /* Clean Off-White (Main text) */
+  --fg1: #e0e0e0;    /* Muted Text Level 1 */
+  --fg2: #c0c0c0;    /* Muted Text Level 2 */
+  --fg3: #909090;    /* Muted Text Level 3 */
+  --fg4: #707070;    /* Muted Text Level 4 */
+
+  /* Accents (Kept original Gruvbox dark palette) */
+  --red: #fb4934;
+  --green: #b8bb26;
+  --yellow: #fabd2f;
+  --blue: #83a598;
+  --purple: #d3869b;
+  --aqua: #8ec07c;
+  --gray: #928374;
+  --orange: #fe8019;
+
+  --red-dim: #cc2412;
+  --green-dim: #98971a;
+  --yellow-dim: #d79921;
+  --blue-dim: #458588;
+  --purple-dim: #b16286;
+  --aqua-dim: #689d6a;
+  --gray-dim: #a89984;
+  --orange-dim: #d65d0e;
+}
