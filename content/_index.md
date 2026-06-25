@@ -1,10 +1,17 @@
-## What Is DSBL?
 
-<p style="text-align:justify">DSBL! Initialism for **“Don’t Study but Learn”**. Silly I know, but I feel like the distinction must be made. People sometimes confuse learning with studying, I’m not a linguist or something but my interpretation about the ultimate difference is that: You study mostly for the sake of a necessity/certain agenda (like grade or something), but you learn for the sake of having fun. That’s why you “learn a hobby”, not “study a hobby”.</p>
+**learnscience.fyi** a website which consist of my attempt to learn things (mainly science of course) with **DSBL** in mind.
 
 <br>
 
-<p style="text-align:justify">I’m here not for the purpose of learning, but rather to learn. I’m going to cover a lot of different topics from different subjects, just for the purpose of having fun. My main purpose here is not to teach you something, but rather to just learn things. So, think of it as my personal note, but feel free to look!</p>
+---
+
+## What Is DSBL?
+
+<p style="text-align:justify">DSBL! Initialism for "Don’t Study but Learn". Silly I know, but I feel like the distinction must be made. People sometimes confuse learning with studying, I’m not a linguist or something but my interpretation about the ultimate difference is that: You study mostly for the sake of a necessity/certain agenda (like grade or something), but you learn for the sake of having fun. That’s why you “learn a hobby”, not “study a hobby”.</p>
+
+<br>
+
+<p style="text-align:justify">I’m here to learn. I’m going to cover a lot of different topics from different subjects, just for the purpose of having fun. So, think of it as my noteweb, and feel free to look!</p>
 <br>
 
 ---

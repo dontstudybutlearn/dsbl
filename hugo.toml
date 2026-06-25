@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://learnscience.fyi"
 disqusShortname = ""
 enableGitInfo = false
 enableRobotsTXT = true
@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "en"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "dsbl"
+title = "learnscience"
 
 [pagination]
 pagerSize = 5
@@ -19,8 +19,8 @@ categories = "categories"
 unsafe = true
 
 [params]
-title="dsbl"
-author = "Michael Neuper"
+title="learnscience"
+author = "dontstudybs"
 description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
