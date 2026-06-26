@@ -1,5 +1,5 @@
 
-**learnscience.fyi** a website which consist of my attempt to learn things (mainly science of course) with **DSBL** in mind.
+**learnscience.fyi** is a website which consist of my attempt to learn (mainly science of course) with **DSBL** in mind.
 
 <br>
 
